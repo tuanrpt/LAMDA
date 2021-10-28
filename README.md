@@ -4,6 +4,8 @@
 
 # LAMDA: Label Matching Deep Domain Adaptation
 
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/tuanrpt/LAMDA?style=for-the-badge" height="25"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tuanrpt/LAMDA?style=for-the-badge" height="25"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/tuanrpt/LAMDA?style=for-the-badge" height="25"><img alt="GitHub license" src="https://img.shields.io/github/license/tuanrpt/LAMDA?style=for-the-badge" height="25">
+
 This is the implementation of paper **[LAMDA: Label Matching Deep Domain Adaptation](http://proceedings.mlr.press/v139/le21a/le21a.pdf)** which has been accepted at ICML 2021.
 
 <p align="center">
