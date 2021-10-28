@@ -106,7 +106,7 @@ python run_lamda.py 1 webcam amazon format csv num_iters 20000 summary_freq 400 
 
 ## D. Citations
 
-If our code is helpful for your research, please cite our paper 
+Please cite the paper if LAMDA is helpful for your research:
 
 ```
 @InProceedings{pmlr-v139-le21a,
