@@ -1,10 +1,15 @@
-<img src="images/logo.jpg"/>
+<p align="center">
+  <img src="images/logo.jpg"/>
+</p>
 
 # LAMDA: Label Matching Deep Domain Adaptation
 
 This is the implementation of paper **[LAMDA: Label Matching Deep Domain Adaptation](http://proceedings.mlr.press/v139/le21a/le21a.pdf)** which has been accepted at ICML 2021.
 
-<img src="images/Figure1.png" style="zoom:20%;" />
+<p align="center">
+  <img src="images/Figure1.png" width="400"/>
+</p>
+
 
 ## A. Setup
 
